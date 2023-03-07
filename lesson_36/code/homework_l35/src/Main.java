@@ -22,7 +22,7 @@ public class Main {
         w3.sort = "Сепарави";
         w3.year = 1980;
 
-        System.out.println(w1.toString());
+        System.out.println(w1.toString()); // выводим 1-й экз объекта из зкласса Wine
         System.out.println(w2.toString());
         System.out.println(w3.toString());
 
