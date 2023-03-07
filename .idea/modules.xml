@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/course-java-basics-2023.iml" filepath="$PROJECT_DIR$/course-java-basics-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT_school.iml" filepath="$PROJECT_DIR$/AIT_school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_35/code/Class_-_Constuctor_-_object_-_setter_-_getter_-_incapsulation/Class_-_Constuctor_-_object_-_setter_-_getter_-_incapsulation.iml" filepath="$PROJECT_DIR$/Lesson_35/code/Class_-_Constuctor_-_object_-_setter_-_getter_-_incapsulation/Class_-_Constuctor_-_object_-_setter_-_getter_-_incapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 36/code/consultation/class_example/class_example.iml" filepath="$PROJECT_DIR$/Lesson 36/code/consultation/class_example/class_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_35/code/example_1/example_1.iml" filepath="$PROJECT_DIR$/Lesson_35/code/example_1/example_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 36/code/homework l35/homework l35.iml" filepath="$PROJECT_DIR$/Lesson 36/code/homework l35/homework l35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_35/code/homework1/homework1.iml" filepath="$PROJECT_DIR$/Lesson_35/code/homework1/homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 36/code/phone/phone.iml" filepath="$PROJECT_DIR$/Lesson 36/code/phone/phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_34_todo_application___Git/code/todo_application/todo_application.iml" filepath="$PROJECT_DIR$/Lesson_34_todo_application___Git/code/todo_application/todo_application.iml" />
     </modules>
   </component>
 </project>

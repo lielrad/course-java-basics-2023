@@ -8,7 +8,7 @@ import static java.lang.System.in;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Task List"); // изменено с "Список дел"
+        System.out.println("Task-List");  // changed from "Список дел"
 //        TO DO LIST - список дел
 //                Меню:
 //        - добавить запись
