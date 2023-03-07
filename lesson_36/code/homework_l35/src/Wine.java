@@ -7,7 +7,7 @@ public class Wine {
     //                               в данном случае для печати класса
 
 
-    // это метод, который переопределяет стандартный еoString
+    // это метод, который переопределяет стандартный toString
     @Override
     public String toString() {
         return "Wine{" +
