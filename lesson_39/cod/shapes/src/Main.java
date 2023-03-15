@@ -1,25 +1,35 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Площади геометрических фигур");
+        System.out.println("\nПлощади геометрических фигур");
 
-        double r = 10;
+        System.out.println("\nСalculating the area of a circle.");
+        double r = 15;
         Circle o1 = new Circle("circle", r);
-        double s_circle = o1.area(); // используем метод класса
-        System.out.println("\nплощадь круга " + s_circle);
+        double circle_area = o1.area(); // используем метод класса
+        System.out.println("площадь круга " + circle_area);
 
-        double a = 100;
-        double h_t = 200;
-        Triangle t1 = new Triangle("trianglee", a, h_t);
-        double a_triangle = t1.area();
-        System.out.println("\nплощадь треугольника "+ a_triangle);
+        System.out.println("\nСalculating the area of a triangle.");
+        double a_t = 100;
+        double h_t = 170;
+        Triangle t1 = new Triangle("trianglee", a_t, h_t);
+        double triangle_area = t1.area();
+        System.out.println("площадь треугольника "+ triangle_area);
 
-        double a_tz = 15;
+        System.out.println("\nСalculating the area of a trapezoid.");
+        double a_tz = 16;
         double b_tz = 11;
         double h_tz = 12;
         Trapezoid tz1 = new Trapezoid("trapezoid", a_tz, b_tz, h_tz);
-        double tz_area = t1.area();
-        System.out.println("\nплощадь трапеции " + tz_area);
+        double trapezoid_area = t1.area();
+        System.out.println("площадь трапеции " + trapezoid_area);
+
+        System.out.println("\nСalculating the area of a rectangle.");
+        double a_rectangle = 20;
+        double b_rectangle = 15;
+        Rectangle rectangle1 = new Rectangle("rectangle", a_rectangle, b_rectangle);
+        double rectangle_area = rectangle1.area();
+        System.out.println("площадь прямоугольника " + rectangle_area);
 
 
     }
