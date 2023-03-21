@@ -25,9 +25,5 @@ public class Main {
         computers.add(comp5);
 
         System.out.println(computers);
-
-
-
-
     }
 }
