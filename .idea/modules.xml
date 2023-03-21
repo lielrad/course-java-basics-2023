@@ -3,13 +3,43 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AIT_school.iml" filepath="$PROJECT_DIR$/AIT_school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_42/cod/access_example/access_example.iml" filepath="$PROJECT_DIR$/lesson_42/cod/access_example/access_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_36/code/practice/animals/animals.iml" filepath="$PROJECT_DIR$/lesson_36/code/practice/animals/animals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_36/code/animals_veterinar/animals_veterinar.iml" filepath="$PROJECT_DIR$/lesson_36/code/animals_veterinar/animals_veterinar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_44/code/binary_search/binary_search.iml" filepath="$PROJECT_DIR$/lesson_44/code/binary_search/binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_38/code/bus/bus.iml" filepath="$PROJECT_DIR$/lesson_38/code/bus/bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_39/cod/bus1/bus1.iml" filepath="$PROJECT_DIR$/lesson_39/cod/bus1/bus1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_40/cod/car/car.iml" filepath="$PROJECT_DIR$/lesson_40/cod/car/car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_35/code/car_old/car_old.iml" filepath="$PROJECT_DIR$/lesson_35/code/car_old/car_old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_43/code/car_static/car_static.iml" filepath="$PROJECT_DIR$/lesson_43/code/car_static/car_static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_35/code/practice/chips/chips.iml" filepath="$PROJECT_DIR$/lesson_35/code/practice/chips/chips.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson 36/code/consultation/class_example/class_example.iml" filepath="$PROJECT_DIR$/Lesson 36/code/consultation/class_example/class_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_39/cod/dancer/dancer.iml" filepath="$PROJECT_DIR$/lesson_39/cod/dancer/dancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_37/code/practice_37/employee_p/employee_p.iml" filepath="$PROJECT_DIR$/lesson_37/code/practice_37/employee_p/employee_p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_37/code/employee_salary/employee_salary.iml" filepath="$PROJECT_DIR$/lesson_37/code/employee_salary/employee_salary.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_35/code/example_1/example_1.iml" filepath="$PROJECT_DIR$/lesson_35/code/example_1/example_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_44/code/example_144/example_144.iml" filepath="$PROJECT_DIR$/lesson_44/code/example_144/example_144.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_41/code/consultation/for_loop/for_loop.iml" filepath="$PROJECT_DIR$/lesson_41/code/consultation/for_loop/for_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_41/code/consultation/hash_code/hash_code.iml" filepath="$PROJECT_DIR$/lesson_41/code/consultation/hash_code/hash_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_36/code/homework/homework.iml" filepath="$PROJECT_DIR$/lesson_36/code/homework/homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson 36/code/homework l35/homework l35.iml" filepath="$PROJECT_DIR$/Lesson 36/code/homework l35/homework l35.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_35/code/homework1/homework1.iml" filepath="$PROJECT_DIR$/lesson_35/code/homework1/homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_40/cod/human/human.iml" filepath="$PROJECT_DIR$/lesson_40/cod/human/human.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_41/code/interface_example/interface_example.iml" filepath="$PROJECT_DIR$/lesson_41/code/interface_example/interface_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_43/code/internet_shop/internet_shop.iml" filepath="$PROJECT_DIR$/lesson_43/code/internet_shop/internet_shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_42/cod/money/money.iml" filepath="$PROJECT_DIR$/lesson_42/cod/money/money.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_38/code/my_triangle/my_triangle.iml" filepath="$PROJECT_DIR$/lesson_38/code/my_triangle/my_triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_38/code/my_voter/my_voter.iml" filepath="$PROJECT_DIR$/lesson_38/code/my_voter/my_voter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_41/code/object_equal_example/object_equal_example.iml" filepath="$PROJECT_DIR$/lesson_41/code/object_equal_example/object_equal_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_35/code/practice/pen/pen.iml" filepath="$PROJECT_DIR$/lesson_35/code/practice/pen/pen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson 36/code/phone/phone.iml" filepath="$PROJECT_DIR$/Lesson 36/code/phone/phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_35/code/practice/practice_phone/practice_phone.iml" filepath="$PROJECT_DIR$/lesson_35/code/practice/practice_phone/practice_phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_39/cod/shapes/shapes.iml" filepath="$PROJECT_DIR$/lesson_39/cod/shapes/shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_39/cod/tests/tests.iml" filepath="$PROJECT_DIR$/lesson_39/cod/tests/tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_34/code/todo_application/todo_application.iml" filepath="$PROJECT_DIR$/lesson_34/code/todo_application/todo_application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_38/code/triangle/triangle.iml" filepath="$PROJECT_DIR$/lesson_38/code/triangle/triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_41/code/two_interfaces/two_interfaces.iml" filepath="$PROJECT_DIR$/lesson_41/code/two_interfaces/two_interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_38/code/voter/voter.iml" filepath="$PROJECT_DIR$/lesson_38/code/voter/voter.iml" />
     </modules>
   </component>
 </project>

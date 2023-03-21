@@ -7,8 +7,6 @@
 
         //  Alt + Insert >> toString() - вызов окна Generate - для автоматической генерации методов,
         //                               в данном случае для печати класса
-
-
         @Override
         public String toString() {
             return "Wine{" +

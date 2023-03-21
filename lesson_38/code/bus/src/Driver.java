@@ -24,4 +24,8 @@ public class Driver {
             this.driver_age = driver_age;
         }
     }
+
+    public String getDriver_name() {
+        return driver_name;
+    }
 }
