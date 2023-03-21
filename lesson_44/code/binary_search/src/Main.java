@@ -22,21 +22,38 @@ public class Main {
         int right = lenght - 1; // это правый конец массива (индекс)
         int middle = left + (right - left)/2; // это индекс середины массива
 
-        while (left < right) {
+        while (left <= right) { // главное условие ЦИКЛА
+            if (element < array[middle] ) { // если искомый элемент в левой половине
+                right = middle - 1; // правый конец массива (индекс) переносим в середину
 
-            if(element == array[middle]) {
+            } else if (element > array[middle] ) { // если искомый элемекнт в правой половине
+                left = middle + 1; // левый конец массива (индекс) переносим в середину
+
+            } else {
                 hasElement = true;
                 break;
             }
-            if (element < array[middle]) {
-                right = middle - 1;
-            }
-            if (element > array[middle]) { // если искомый элемент в правой половине
-                left = middle + 1;
-            }
 
-            middle = left + (right - left) / 2; // вычисляем новую середину
+            middle = left + (right - left)/2; // вычисляем новую середину
+
         }
+
+
+//        while (left < right) {
+//
+//            if(element == array[middle]) {
+//                hasElement = true;
+//                break;
+//            }
+//            if (element < array[middle]) {
+//                right = middle - 1;
+//            }
+//            if (element > array[middle]) { // если искомый элемент в правой половине
+//                left = middle + 1;
+//            }
+//
+//            middle = left + (right - left) / 2; // вычисляем новую середину
+//        }
         System.out.println(hasElement);
     }
 }
